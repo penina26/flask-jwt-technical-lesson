@@ -15,8 +15,9 @@ importlib-resources = "*"
 flask-bcrypt = "*"
 ipdb = "*"
 werkzeug = "*"
+flask-jwt-extended = "*"
 
 [dev-packages]
 
 [requires]
-python_full_version = "3.8.13"
+python_full_version = "3.12.3"
